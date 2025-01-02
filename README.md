@@ -1,2 +1,2 @@
 # python-lessons
-Bu darslarda python tiliga mavjud kodlar jamlangan!
+Bu darslarda python tiliga oid kodlar jamlangan!
